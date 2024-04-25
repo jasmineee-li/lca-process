@@ -1,0 +1,8 @@
+pandas
+openpyxl
+supabase
+phonenumbers
+fuzzywuzzy
+tqdm
+xlsx2csv
+tenacity
